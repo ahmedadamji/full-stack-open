@@ -1,8 +1,16 @@
 # Full-Stack-Open
 
-In this repository, I solve the different parts of course Web Development of Full-Stack-Open.
+Solutions for the **Full Stack Open** course.
 
-Status of development:
+## Viewing pages
+
+Some exercises include HTML files. GitHub shows these as source code by default.
+
+Use **[GitHub Pages](https://ahmedadamji.github.io/full-stack-open/)** to view them rendered in the browser.
+
+You can also clone the repository and open the files locally.
+
+## Progress
 
 - [ ] part0: Fundamentals of Web apps
 - [ ] part1: Introduction to React
@@ -15,4 +23,6 @@ Status of development:
 - [ ] part8: GraphQL
 - [ ] part9: TypeScript
 
-Source: https://fullstackopen.com/en
+## Source
+
+https://fullstackopen.com/en
