@@ -4,6 +4,7 @@
 
 - [ ] 0.1: HTML
     - [Instructions for life](https://ahmedadamji.github.io/full-stack-open/part0/0.1/instructions-for-life.html)
+    - [First website](https://ahmedadamji.github.io/full-stack-open/part0/0.1/first-website)
 - [ ] 0.2: CSS
 - [ ] 0.3: HTML forms
 - [ ] 0.4: New note diagram
