@@ -4,6 +4,11 @@ html {
   font-family: Varela Round;
 }
 
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
 p {
   color: red;
   width: 500px;
@@ -14,6 +19,13 @@ li {
   background-color: palevioletred;
   border: 1px solid black;
   margin-bottom: 5px;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
 
 
