@@ -1,6 +1,13 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  font-family: Varela Round;
+}
+
 p {
-  font-family: sans-serif;
   color: red;
+  width: 500px;
+  border: 1px solid black;
 }
 
 li {
@@ -8,3 +15,21 @@ li {
   border: 1px solid black;
   margin-bottom: 5px;
 }
+
+
+/*
+   I can use this optional utility class if I want to apply 
+   the "Varela Round" font only to specific elements instead 
+   of the entire website.
+
+   Usage example (in my HTML):
+   <p class="varela-round-regular">This text uses Varela Round.</p>
+
+   I would add this class to any element where I want the font applied.
+   I can keep it commented out if I’m setting the font globally on body as I have done above.
+*/
+/* .varela-round-regular {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
